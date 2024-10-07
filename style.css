@@ -1,0 +1,25 @@
+img{
+    width: 250px;
+}
+table,td,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100vw;
+    text-align: center;
+}
+span{
+    margin-right: 600px;
+}
+
+ul{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 30px;
+}
+a:hover{
+    background-color: black;
+}
+a:visited{
+    background-color: red;
+}

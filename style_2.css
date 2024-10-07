@@ -1,0 +1,15 @@
+span{
+    margin-right: 600px;
+}
+ul{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap; 
+  gap: 30px; 
+}
+a:hover{
+    background-color: black;
+}
+a:visited{
+    background-color: red;
+}
